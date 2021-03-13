@@ -1,6 +1,8 @@
 # Falcon Dashboard
 Dashboard used by FRC 5190 to generate trajectories and visualize live robot motion to debug trajectory tracking and computer vision code.
 
+https://github.com/FRC5190/FalconDashboard
+
 ## Pre-Requisites
 JDK 11 or higher is required to build Falcon Dashboard. Older versions will cause compilation errors.
 
