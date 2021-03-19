@@ -7,8 +7,8 @@ import org.ghrobotics.lib.mathematics.units.inches
  */
 object Properties {
     // Robot Sizes
-    val kRobotLength = 31.inches
-    val kRobotWidth = 29.inches
+    val kRobotLength = 17.inches
+    val kRobotWidth = 17.inches
 
     // Target Sizes
     val kTargetWidth = 14.5.inches
